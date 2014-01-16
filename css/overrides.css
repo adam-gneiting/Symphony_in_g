@@ -1,0 +1,68 @@
+.carousel {
+	height: 300px;
+	
+}
+
+.carousel-inner  .item {
+   height: 300px;
+	
+}
+
+.carousel-inner .carousel-caption {
+   top: 35px;
+   bottom: 5px;
+}
+
+.carousel-indicators {
+   bottom: -5px;
+}
+
+.carousel-inner .item  img {
+   height: 400px;
+}
+
+.marketing .row {
+   width: 100%;
+   text-align: center;
+   display:-webkit-box;
+    -webkit-box-pack:center;
+    -webkit-box-align:center;
+}
+
+.marketing .row .col-lg-4 {
+   display: inline-block;
+}
+
+.marketing .row .col-lg-4 img {
+   width: 140px;
+   height: 140px;
+}
+
+.image-rounded {
+   border-radius: 15px;
+   padding: 10px;
+   margin-left: 25px;
+   width: 280px;
+}
+
+.content {
+   padding-top:100px;
+}
+
+.content .personal-info {
+   margin-left: 20px;
+   margin-right: 20px;
+}
+
+.content .personal-info div {
+   display: inline-block;
+}
+
+#div-personal-image {
+   float: left;
+}
+
+#div-personal-info {
+   float: right;
+   max-width:70%;
+}
