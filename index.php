@@ -13,6 +13,8 @@
 
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/overrides.css" rel="stylesheet">
+    
+</head>
   
   <body>
     <div class="navbar-wrapper">
@@ -35,7 +37,7 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Assignments <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                     <li><a href="#">#1 - Sugar</a></li>
+                     <li><a href="survey.php">#1 - Sugar</a></li>
                      <li><a href="#">#2 - Spice</a></li>
                     <li><a href="#">#3 - Everything Nice</a></li>
                     <li class="divider"></li>

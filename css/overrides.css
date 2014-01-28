@@ -66,3 +66,17 @@
    float: right;
    max-width:70%;
 }
+
+.main {
+   margin-left: 10%;
+   margin-right: 10%;
+}
+
+input.checkboxes {
+   margin-left: 8px;
+   margin-right: 2px;
+}
+
+a.link {
+   margin: 5px;
+}
